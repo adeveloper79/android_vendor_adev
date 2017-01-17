@@ -11,9 +11,6 @@ BOARD_EGL_CFG := vendor/adev/prebuilt/etc/egl.cfg
 # Boot animation
 TARGET_BOOTANIMATION_MULTITHREAD_DECODE := true
 
-# Audio
-USE_XML_AUDIO_POLICY_CONF := 1
-
 # Wifi
 WPA_SUPPLICANT_VERSION := VER_0_8_X
 BOARD_HOSTAPD_DRIVER := NL80211
