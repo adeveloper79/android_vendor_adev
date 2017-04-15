@@ -502,3 +502,5 @@
 
 #fat on nand image
 /fat(/.*)?  u:object_r:fon_image_data_file:s0
+
+#Fix by Sandeep 
