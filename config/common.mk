@@ -9,10 +9,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_COPY_FILES += \
     vendor/adev/prebuilt/etc/agps_profiles_conf2.xml:system/etc/agps_profiles_conf2.xml
 
-# Gello
+# Jelly
 PRODUCT_PACKAGES += \
-    Gello
-
+    Jelly
 # Snap
 PRODUCT_PACKAGES += \
     Snap
